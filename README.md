@@ -47,7 +47,10 @@ The simulation requires numpy for matrix mathematics and matplotlib for telemetr
   ```bash
   python main.py
   ```
-
+<img src="Sultanian_Sim/Screenshot2026-03-15220302.png"/>
+<img src="Sultanian_Sim/Screenshot2026-03-15220311.png"/>
+<img src="Sultanian_Sim/Screenshot2026-03-15191830.png"/>
+<img src="Sultanian_Sim/Screenshot2026-03-15191835.png"/>
 ## 🚀 Core Features
 
 * **220 THz Optical Lattice Governor:** A memoryless 4x4 matrix solver that resolves the **Cancellation Point ($Z_0$)** in real-time to match environmental potential.
