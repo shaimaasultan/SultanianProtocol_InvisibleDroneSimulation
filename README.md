@@ -17,11 +17,18 @@ Based on the research paper *"The Unified Field and Motion Protocol: A Theory of
 sultanian_drone/
 ├── core/
 │   ├── __init__.py
-│   └── governor.py       # Instantaneous Solver Logic (The Brain)
+│   ├── Plenum.py
+│   └── generator.py       # Instantaneous Solver Logic (The Brain)
 ├── physics/
 │   ├── __init__.py
 │   └── engine.py         # Inertia/Mass-Energy Interaction (The Body)
-└── main.py               # Unified Simulation & Visualization Entry Point
+├── viz/
+│   ├── __init__.py
+│   └── dashboard.py         # Inertia/Mass-Energy Interaction (The Body)
+├── Sinularity_Jump.py              
+├── Stress_test.py
+├── SultanianSimulator.py
+└── main.py               # Unified Simulation & Visualization Entry Point            
 ```
 ## 🛠 Installation
 
